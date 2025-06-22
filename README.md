@@ -27,5 +27,3 @@ python main.py
 - Melhorar a inteligência do personagem
 
 ---
-
-Este projeto foi iniciado automaticamente. Substitua os sprites de exemplo por imagens reais do macaco para uma experiência completa.
